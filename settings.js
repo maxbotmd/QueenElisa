@@ -17,9 +17,9 @@ module.exports = {
 ☫ Work Mode : @mode
 ☫ Work Type : @worktype
 
-Qᴜᴇᴇɴ ᴇʟɪꜱᴀ ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ`,
+MAXBOT-MD WHATSAPP BOT`,
   ALIVE_MEDIA: 'https://telegra.ph/file/d0fdb53f9f22eefd486cb.jpg',
-  MONGODB_URL: '', 
+  MONGODB_URL: 'mongodb+srv://maxaustin37:Chiputula.123@cluster0.rk3qd.mongodb.net/', 
   PREFIX: '.$&',
   LANGUAGE: 'EN',
   PORT: 3000,
